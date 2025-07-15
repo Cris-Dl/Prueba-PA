@@ -6,3 +6,4 @@ class Persona:
         self.DPI=DPI
         self.Cedula=Cedula
         self.NIT=NIT
+print("Si Santi")
