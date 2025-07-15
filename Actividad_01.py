@@ -7,3 +7,6 @@ class Persona:
         self.Cedula=Cedula
         self.NIT=NIT
 print("Si Santi")
+
+if Persona != int:
+    breakpoint()
